@@ -1,7 +1,0 @@
-C:\Users\Nik\source\repos\Random Name Generator - Console\bin\Debug\Random Name Generator - Console.exe.config
-C:\Users\Nik\source\repos\Random Name Generator - Console\bin\Debug\Random Name Generator - Console.exe
-C:\Users\Nik\source\repos\Random Name Generator - Console\bin\Debug\Random Name Generator - Console.pdb
-C:\Users\Nik\source\repos\Random Name Generator - Console\obj\Debug\Random Name Generator - Console.csprojAssemblyReference.cache
-C:\Users\Nik\source\repos\Random Name Generator - Console\obj\Debug\Random Name Generator - Console.csproj.CoreCompileInputs.cache
-C:\Users\Nik\source\repos\Random Name Generator - Console\obj\Debug\Random Name Generator - Console.exe
-C:\Users\Nik\source\repos\Random Name Generator - Console\obj\Debug\Random Name Generator - Console.pdb
